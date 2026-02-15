@@ -1,16 +1,21 @@
-### Hi there 👋
-I like python
-<!--
-**L2santos29/L2santos29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Luis! 👋🇯🇵
 
-Here are some ideas to get you started:
+**Legal Engineer | Python Developer | Trust & Safety Specialist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bridge the gap between **Criminal Law** and **Software Engineering**.
+Currently based in **Niseko, Hokkaido**, creating automated solutions for compliance and fraud detection in C2C marketplaces.
+
+---
+
+#### 🔧 Tech Stack
+* **Core:** Python (Pandas, Regex, NLP), Automation.
+* **Systems:** Linux, Bash, Git.
+* **Focus:** Trust & Safety, Anti-Money Laundering (AML), Fraud Detection.
+
+#### 🚀 Current Project
+* **[SlangHunter](https://github.com/L2santos29/slanghunter):** A semantic risk detection engine for marketplaces (MVP).
+    * *Detects drug slang, money laundering patterns, and 'surikae' fraud using NLP.*
+
+---
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/luis-legal-engineer/) | luisdossantos2001@gmail.com
