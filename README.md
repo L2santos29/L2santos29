@@ -12,11 +12,11 @@ I bridge the gap between strict legal compliance and advanced software engineeri
 
 ### 🚀 Featured Projects
 
-🏆 **[Kelsen-Graph Architecture]** *(Link a tu futuro repositorio)*
+🏆 **[[Kelsen-Graph Architecture](https://github.com/L2santos29/kelsen-graph-poc)]**
 * **What it is:** A neuro-symbolic AI framework designed to eliminate LLM hallucinations in enterprise contract review.
 * **How it works:** It aggressively decouples generative NLP data extraction from decision-making. It uses zero-temperature LLMs solely to parse unstructured legal documents into JSON, and routes that data through a hard-coded, deterministic Python logic graph to execute flawless, 100% auditable compliance decisions.
 
-🛡️ **[SlangHunter]** *(Link a tu repo de Slanghunter)*
+🛡️ **[[SlangHunter](https://github.com/L2santos29/slanghunter)]**
 * **What it is:** A semantic risk detection engine (MVP) built for C2C marketplaces.
 * **How it works:** Deployed to automate Trust & Safety operations, it utilizes advanced NLP and Regex to instantly detect drug slang, money laundering patterns, and 'surikae' (bait-and-switch) fraud attempts, drastically reducing manual review times.
 
