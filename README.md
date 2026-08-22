@@ -1,29 +1,57 @@
-# Hi there, I'm Luis! 👋🇯🇵
+<h1 align="center">Hi there, I'm Luis! 👋🇯🇵</h1>
+<p align="center"><b>AI Systems Architect & Legal Engineer</b></p>
 
-**Legal Engineer | Applied AI & NLP Developer | Python Specialist**
+<p align="center">
+  I'm an AI Systems Architect & Legal Engineer building production-ready systems
+  that are precise, auditable, and built to last.
+</p>
 
-I bridge the gap between strict legal compliance and advanced software engineering. Currently based in Hokkaido, Japan, I specialize in building deterministic AI systems, automating complex legal workflows, and developing scalable Trust & Safety solutions. My goal is to translate rigid legal dogma into flawless, executable code.
+---
 
-### 🔧 Tech Stack & Capabilities
-* **Core Engineering:** Python (Pandas, Regex), API Integration, Deterministic Logic Routing.
-* **Applied AI:** Large Language Models (LLMs), Prompt Engineering, Zero-Entropy Data Extraction, NLP.
-* **Systems & DevOps:** Linux, Bash, Git, Server Deployment.
-* **Domain Expertise:** LegalTech Architecture, Contract Law, AML (Anti-Money Laundering), Fraud Detection, C2C Marketplace Compliance.
+### 🛠 Tech Stack
+
+**Languages**
+Rust · Python · TypeScript · C/C++ · SQL
+
+**AI & Agents**
+LangGraph · RAG · Tool Calling · Multi-Agent Systems · Neuro-symbolic AI · LLMs & SLMs
+
+**MLOps & Model Optimization**
+Knowledge Distillation · Quantization (INT8/FP16, GGUF, 1.58-bit) · Fine-tuning (LoRA/QLoRA) · ONNX Runtime · llama.cpp · Agent Evals (Langfuse, Promptfoo)
+
+**Backend & Microservices**
+FastAPI · NestJS · Node.js · REST APIs · WebSockets · Server-Sent Events
+
+**Databases & Vector Search**
+PostgreSQL (pgvector, HNSW) · Qdrant · FastEmbed · SQLite · Redis
+
+**Infrastructure, Cloud & DevOps**
+Docker · Kubernetes · ArgoCD · Terraform · GitHub Actions · Linux SysAdmin · GCP
+
+**Frontend & Desktop**
+React · Vue 3 · Single-SPA · Tauri v2 · TailwindCSS
+
+**Security & Observability**
+Auditability-by-Design · PII Anonymization (GDPR/APPI) · OpenTelemetry · Prometheus
+
+---
 
 ### 🚀 Featured Projects
 
-🏆 **[[Kelsen-Graph Architecture](https://github.com/L2santos29/kelsen-graph-poc)]**
-* **What it is:** A neuro-symbolic AI framework designed to eliminate LLM hallucinations in enterprise contract review.
-* **How it works:** It aggressively decouples generative NLP data extraction from decision-making. It uses zero-temperature LLMs solely to parse unstructured legal documents into JSON, and routes that data through a hard-coded, deterministic Python logic graph to execute flawless, 100% auditable compliance decisions.
+🏆 **PaySuite** — FinTech ecosystem (4 repos): fraud scoring <25ms, semantic search over 1M+ records, 689 tests, >93% coverage.
 
-🛡️ **[[SlangHunter](https://github.com/L2santos29/slanghunter)]**
-* **What it is:** A semantic risk detection engine (MVP) built for C2C marketplaces.
-* **How it works:** Deployed to automate Trust & Safety operations, it utilizes advanced NLP and Regex to instantly detect drug slang, money laundering patterns, and 'surikae' (bait-and-switch) fraud attempts, drastically reducing manual review times.
+🔍 **KelsenGraph** — Neuro-symbolic framework eliminating LLM hallucinations in legal contract review via formal verification.
 
-### 🌱 Currently Exploring
-* Small Language Models (SLMs) for local edge deployment.
-* Ensemble Machine Learning (LightGBM/XGBoost) for predictive legal analytics.
+🛡️ **legis-agent** — Legal compliance agent built with LangGraph, RAG, Langfuse & Promptfoo, with evals in CI.
 
-### 📫 Let's Connect
-* **LinkedIn:** [in/luis-legal-engineer](https://www.linkedin.com/in/luis-legal-engineer)
-* **Email:** luisdossantos2001@gmail.com
+⚡ **cortex-gate** — Rust LLM routing gateway: <1.2ms classification, <25MB RAM, up to -60% API costs.
+
+📉 **distilkit** — MLOps distillation toolkit: -68% model weight with 97.8% accuracy and 4.1x throughput.
+
+---
+
+### 📫 Connect
+
+- **LinkedIn:** [in/luis-legal-engineer](https://www.linkedin.com/in/luis-legal-engineer)
+- **Email:** luisdossantos2001@gmail.com
+- **Location:** Tokyo, Japan
